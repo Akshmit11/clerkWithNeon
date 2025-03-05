@@ -14,7 +14,7 @@ const LandingPage = () => {
           </div>
           <div className="space-x-4 pt-4">
             <Button asChild size="lg">
-              <Link href="#">Explore more</Link>
+              <Link href="/dashboard">Explore more</Link>
             </Button>
           </div>
         </div>
